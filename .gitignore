@@ -12,3 +12,4 @@ ALRSim.**
 /gym_framework/mujoco_envs/pick_and_place_env/tests/runs/*
 /gym_framework/mujoco_envs/reach_env/tests/models/*
 /gym_framework/mujoco_envs/reach_env/tests/runs/*
+alr_sim.egg-info

@@ -46,7 +46,7 @@ cd `dirname "$BASH_SOURCE"` && pre-commit install
 ############ MUJOCO BETA SUPPORT INSTALLATION ############
 function mj_beta_install() {
   mamba install -c conda-forge imageio -y -q
-  pip install mujoco
+  pip install mujoco==2.3
 }
 
 # Mujoco Install Switch
